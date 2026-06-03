@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
+Backend Software Engineer | Java | Spring Boot | AWS
 
-<!--
-**AdityaKishore27/adityakishore27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+Java • Spring Boot • PostgreSQL • Redis • Kafka • Docker • AWS • Python • FastAPI
 
-Here are some ideas to get you started:
+## 🚀 Currently Building
+- Connect-Live — Real-time messaging platform (WebSockets, JWT, PostgreSQL)
+- AI Document Assistant — RAG-powered knowledge base (pgvector, LLM, Kafka)
+- AI Fitness Tracker — Microservices system (Kafka, Python FastAPI, Keycloak)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+[LinkedIn](your-linkedin-url) • adityakishore.27@gmail.com
